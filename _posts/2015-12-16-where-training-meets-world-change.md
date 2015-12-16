@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T18:08:49.415Z'
-dateModified: '2015-12-16T18:08:15.061Z'
+datePublished: '2015-12-16T18:09:36.864Z'
+dateModified: '2015-12-16T18:09:13.911Z'
 title: Where Training Meets World Change
 author: []
 authors: []
