@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-16T22:10:57.842Z'
-dateModified: '2015-12-16T22:10:33.692Z'
+datePublished: '2015-12-16T22:12:31.841Z'
+dateModified: '2015-12-16T22:11:45.155Z'
 title: Where Training Meets World Change
 author: []
 authors: []
