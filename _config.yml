@@ -1,0 +1,28 @@
+name: p2cplus
+favicon: null
+layout_spectrum: 0.07952899485826492
+typography_spectrum: 0.38039835076779127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8219958504196256
+  lightness: 0.3469922887161374
+  saturation: 0.6836017919704318
+  rhythmicContrast: 0.4053400200791657
+purpose: []
