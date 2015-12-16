@@ -1,7 +1,7 @@
 name: p2cplus
 favicon: null
-layout_spectrum: 0.07952899485826492
-typography_spectrum: 0.38039835076779127
+layout_spectrum: 0.06511
+typography_spectrum: 0.17475
 title: P2C+ Conference
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#98a6ef'
+    - '#400bfd'
+    - '#cd4dca'
+    - '#eea640'
+    - '#57f06a'
   brandStrength: 0.8219958504196256
   lightness: 0.3469922887161374
   saturation: 0.6836017919704318
-  rhythmicContrast: 0.4053400200791657
+  rhythmicContrast: 0.5
 purpose: []
