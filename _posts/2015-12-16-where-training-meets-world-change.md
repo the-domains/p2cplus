@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T18:09:36.864Z'
-dateModified: '2015-12-16T18:09:13.911Z'
+datePublished: '2015-12-16T22:10:57.842Z'
+dateModified: '2015-12-16T22:10:33.692Z'
 title: Where Training Meets World Change
 author: []
 authors: []
@@ -19,24 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2015-12-16-where-training-meets-world-change.md
 published: true
-_context: 'http://schema.org'
-_type: Article
+_type: Blurb
 
 ---
-# Where Training Meets World Change
-
-# 
-
-## When
-
-**Wednesday Dec 28, 2016 - Jan 1, 2017**
-
-* First main session begins at 7:00 pm on Dec 28
-* Cap off your conference with your friends at our New Year's Eve Party (ends at 1:00 am)
-
-## Where
-
-[Sheraton Parkway Toronto North Hotel][0]  
-600 Highway 7 East, Richmond Hill, ON
-
-[0]: http://www.sheratonparkway.com/
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cb7c897-a64e-4b57-b2c9-82c5b938a2e1.jpg)
