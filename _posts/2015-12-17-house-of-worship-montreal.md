@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T02:21:16.824Z'
-dateModified: '2015-12-17T02:21:04.815Z'
-title: House of Worship Montreal
+datePublished: '2015-12-17T02:30:55.579Z'
+dateModified: '2015-12-17T02:30:28.301Z'
+title: The Bands
 author: []
+sourcePath: _posts/2015-12-17-house-of-worship-montreal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-house-of-worship-montreal.md
-published: true
 url: house-of-worship-montreal/index.html
 _type: WebPage
 
 ---
+# The Bands
+
 # House of Worship Montreal
 
 House of Worship Montreal is a worship ministry based in Montreal, Quebec that seeks to make the name of Jesus Christ known to the city through the gift of music. By God's grace, we want to invite as much people to join in the song of worship to our God through various worship jam sessions and through worship busking in the Montreal metro stations.
@@ -34,3 +36,8 @@ We dream of the day to see every person in the city of Montreal to come to know 
 
 "I learned God-worship when my pride was shattered. Heart-shattered lives ready for love don't for a moment escape God's notice." Psalm 51:17 (MSG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f3ed1f-013d-44ac-8b9b-300b44b2badb.png)
+
+# Greg Sykes
+
+Greg lives with his wife and two children in St. Catharines, Ontario where he serves as the worship leader in his local church (www.centralcc.ca) and also operates two small businesses. Greg enjoys songwriting and spending time with his family! He has written and recorded dozens of songs in the last 5 years, many of which are sung in his home church and around Canada! He genuinely loves to sing and ultimately to bring hope and encouragement to whomever he encounters. If you'd like to learn more about Greg and his church visit www.gregsykes.ca and www.centrallive.ca.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54e3fe54-759a-478b-ae7a-4ffcac82bd9d.png)
