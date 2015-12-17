@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[P2C+ Conference]]></title>
+        <description><![CDATA[P2C+ Conference]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 02:02:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greg Sykes]]></title>
+            <description><![CDATA[<article><h1>Greg Sykes</h1><p>Greg lives with his wife and two children in St. Catharines, Ontario where he serves as the worship leader in his local church (www.centralcc.ca) and also operates two small businesses. Greg enjoys songwriting and spending time with his family! He has written and recorded dozens of songs in the last 5 years, many of which are sung in his home church and around Canada! He genuinely loves to sing and ultimately to bring hope and encouragement to whomever he encounters. If you’d like to learn more about Greg and his church visit www.gregsykes.ca and www.centrallive.ca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7bdcc49dc919a2bafc958374b2a69ddc4799065.png"></article>]]></description>
+            <link>undefinedgreg-sykes/index.html</link>
+            <guid isPermaLink="false">8adaa07b-ca79-4fde-813e-1833f66d7c62</guid>
+            <pubDate>Thu, 17 Dec 2015 02:02:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
