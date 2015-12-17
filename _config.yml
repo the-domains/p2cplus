@@ -1,6 +1,6 @@
 name: p2cplus
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73998
 typography_spectrum: 0.30184
 title: P2C+ Conference
 cta:
@@ -23,7 +23,7 @@ color:
     - '#eea640'
     - '#57f06a'
   brandStrength: 0.1875
-  lightness: 0.1875
+  lightness: 0
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
